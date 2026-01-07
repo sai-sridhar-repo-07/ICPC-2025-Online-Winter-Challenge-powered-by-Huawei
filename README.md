@@ -25,5 +25,4 @@ The solver uses a greedy, load-aware heuristic:
 
 This approach achieved **Rank ~400 globally** in the contest.
 
-## 📁 Project Structure
 
